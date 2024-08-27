@@ -1,0 +1,134 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background: #C9DABF;
+}
+
+.container{
+    margin: auto;
+    width: 960px;
+    height: 650px;
+    padding: 5px;
+    background: #9CA986;
+}
+
+.logo{
+    width: 100%;
+    float: left;
+}
+
+.left{
+    float: left;
+    width: 70%;
+    height: 70%;
+    border-radius: 24px;
+    background: #021526;
+}
+
+.right{
+    float: right;
+    width: 30%;
+    height: auto;
+    border-radius: 24px;
+    background: #637A9F;
+}
+
+.left-button{
+    float: left;
+    width: 70%;
+    height: auto;
+    border-radius: 24px;
+    background: #173B45;
+}
+
+#imgIzq{
+    margin-left: 2%;
+    margin-top: 1%;
+    float: left;
+}
+
+.logoImg {
+    margin-top: 1%;
+    margin-left: 5%;
+    float: inherit;
+}
+
+.title{
+    float: inherit;
+    margin-left: 20%;
+}
+
+.text-input{
+    float: left;
+    margin-left: 10%;
+    margin-top: 10%;
+    width: 80%;
+    height: 80%;
+    color: #0A3871;
+    font-size: 20px;
+    border: none;
+    outline: none;
+    background: #C9DABF;
+}
+
+#imgDer {
+    margin-left: 2%;
+    margin-top: 20%;
+    width: 90%;
+    height: auto;
+}
+
+#texto {
+    margin-left: 7%;
+    margin-right: 5%;
+}
+
+#texto2 {
+    float: left;
+    margin-left: 10%;
+    color: #0A3871;
+    width: 80%;
+    height: 60%;
+    border: none;
+    outline: none;
+    font-size: 15px;
+}
+
+#btn-encriptar {
+    padding: 24px;
+    width: 30%;
+    height: 60%;
+    border-radius: 24px;
+    margin-left: 15%;
+    background: #C9DABF;
+}
+
+#btn-desencriptar {
+    padding: 24px;
+    width: 30%;
+    height: 60%;
+    border-radius: 24px;
+    margin-left: 10%;
+    background: #C9DABF;
+}
+
+#copiar {
+    margin-left: 33%;
+    margin-top: 90%;
+    padding: 24px;
+    width: 40%;
+    height: 10%;
+    background: #0A3871;
+    border-radius: 24px;
+    display: none;
+}
+
+.footer{
+    background-color: #9CA986;
+    padding: 24px;
+    color: black;
+    text-align: center;
+    font-family: center;
+    font-size: 1.5rem;
+    font-weight: 400;
+}
